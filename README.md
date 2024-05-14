@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmmanuelUwem1
 - 👀 I’m interested in web development, software development 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me emmanueluwem560@gmail.com
 - 😄 Pronouns: he, his 
 - ⚡ Fun fact: 
