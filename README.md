@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me emmanueluwem560@gmail.com
-- 😄 Pronouns: he, his 
+- 😄 Pronouns: he, him
 - ⚡ Fun fact: 
 
 <!---
