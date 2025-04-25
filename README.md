@@ -17,7 +17,7 @@ Welcome to my GitHub profile. I am a diligent web and software developer committ
 
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks/Libraries:** React,Tailwind, Next js, Node.js *(exploring further)*  
-- **Other Tools:** Git, VS Code, REST APIs
+- **Other Tools:** Git, VS Code, REST APIs, Postman
 
 ---
 
