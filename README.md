@@ -41,5 +41,5 @@ I believe that creativity fuels technical innovation. Aside from coding, I enjoy
 
 ---
 
-*Thank you for visiting my profile. I'm excited to connect, collaborate, and contribute in the ever-evolving field of Software Engineering*
+*Thank you for visiting my profile. I'm glad to connect, collaborate, and contribute in the ever-evolving field of Software Engineering*
 
