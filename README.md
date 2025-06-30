@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I am a diligent Software Engineer  committed to cr
 ## Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript, Typescript  
-- **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Wagmi, ethers js, expo *(exploring further)*  
+- **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Wagmi, ethers js, React Native, expo *(exploring further)*  
 - **Other Tools:** Git, VS Code, REST APIs, Postman
 
 ---
