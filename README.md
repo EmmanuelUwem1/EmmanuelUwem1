@@ -8,15 +8,15 @@ Welcome to my GitHub profile. I am a diligent Software Engineer  committed to cr
 
 - **Name:** Emmanuel Uwem  
 - **Pronouns:** He/Him  
-- **Interests:** Web Development, Software Development  
-- **Current Focus:** Mastering JavaScript and exploring modern web frameworks
+- **Interests:** Web Development, Software Engineering  
+- **Current Focus:** Mastering JavaScript/Typescript and exploring modern web frameworks
 
 ---
 
 ## Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript, Typescript  
-- **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Wagmi, ethers js, React Native, expo *(exploring further)*  
+- **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Wagmi, ethers js, React Native, expo ... 
 - **Other Tools:** Git, VS Code, REST APIs, Postman
 
 ---
@@ -29,7 +29,7 @@ I have worked on various web development projects ranging from responsive websit
 
 ## Collaboration
 
-I am always looking for opportunities to collaborate on innovative projects and exchange ideas with fellow developers. If you have a project in mind or just want to connect, feel free to reach out.
+I am always open to opportunities to collaborate on innovative projects and exchange ideas with fellow developers. If you have a project in mind or just want to connect, feel free to reach out.
 
 **Contact Me:** [emmanueluwem560@gmail.com](mailto:emmanueluwem560@gmail.com)
 
