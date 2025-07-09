@@ -1,4 +1,4 @@
-# Hi, I'm Emmanuel (@EmmanuelUwem1)
+# Hello, I'm Emmanuel (@EmmanuelUwem1)
 
 Welcome to my GitHub profile. I am a diligent Software Engineer  committed to creating innovative, high-quality solutions. I enjoy the challenge of turning ideas into real-world applications by combining elegance with functionality.
 
