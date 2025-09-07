@@ -1,4 +1,4 @@
-##Emmanuel (@EmmanuelUwem1)
+# Emmanuel (@EmmanuelUwem1)
 
 Diligent Software Engineer  committed to creating innovative, high-quality solutions. I enjoy the challenge of turning ideas into real-world applications by combining elegance with functionality.
 
