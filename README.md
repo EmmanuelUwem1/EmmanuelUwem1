@@ -1,6 +1,6 @@
 # Emmanuel Uwem (@EmmanuelUwem1)
 
-Diligent Software Engineer  committed to creating innovative, high-quality solutions. I enjoy the challenge of turning ideas into real-world applications by combining elegance with functionality.
+Diligent Software Engineer  committed to creating innovative, high-quality solutions. I combine elegance with functionality in turning ideas into real-world applications.
 
 ---
 
