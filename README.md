@@ -1,6 +1,6 @@
 # Emmanuel Uwem (@EmmanuelUwem1)
 
-Diligent Software Engineer  committed to creating innovative, high-quality solutions. I combine elegance with functionality in turning ideas into real-world applications.
+Diligent Software Engineer  committed to creating innovative, high-quality solutions. I combine elegance with functionality in turning helpful ideas into real-world applications.
 
 ---
 
@@ -8,8 +8,8 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 
 - **Name:** Emmanuel Uwem  
 - **Pronouns:** He/Him  
-- **Interests:** Web Development, Software Engineering  
-- **Current Focus:** Mastering JavaScript/Typescript and exploring modern web frameworks
+- **Interests:** Information Technology, Software Engineering, Digital Solutions 
+- **Current Focus:** Mastering JavaScript/Typescript and exploring modern web and mobile frameworks
 
 ---
 
@@ -17,7 +17,7 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 
 - **Languages:** HTML, CSS, JavaScript, Typescript  
 - **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Express js, GraphQL, Zustand, Wagmi, ethers js, React Native, expo ... 
-- **Other Tools and protocols:** Git, VS Code, Postman, Vercel, Render, REST APIs, WebSocket...
+- **Other Tools and protocols:** Git, VS Code, Android Studio, Postman, Vercel, Render, REST APIs, WebSockets...
 
 ---
 
@@ -41,5 +41,5 @@ I believe that creativity fuels technical innovation. Aside from coding, I enjoy
 
 ---
 
-*Thank you for visiting my profile. I am glad to connect, collaborate, and contribute in the ever-evolving field of Software Engineering*
+**********
 
