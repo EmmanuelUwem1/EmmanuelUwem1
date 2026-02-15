@@ -23,7 +23,7 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 
 ## Projects
 
-I have worked on various web development projects ranging from responsive websites to dynamic web applications. Please check out my [repositories](https://github.com/EmmanuelUwem1?tab=repositories) for examples of my work.
+I have worked on various projects ranging from responsive websites to dynamic web, and mobile applications. Please check out my [repositories](https://github.com/EmmanuelUwem1?tab=repositories) for examples of my work.
 
 ---
 
