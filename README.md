@@ -9,7 +9,7 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 - **Name:** Emmanuel Uwem  
 - **Pronouns:** He/Him  
 - **Interests:** Information Technology, Software Engineering, Digital Solutions 
-- **Current Focus:** Mastering JavaScript/Typescript and exploring modern web and mobile frameworks
+- **Current Focus:** Deepening my expertise in system design, and scalable application architecture
 
 ---
 
