@@ -8,7 +8,7 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 
 - **Name:** Emmanuel Uwem  
 - **Pronouns:** He/Him  
-- **Interests:** Information Technology, Software Engineering, Digital Solutions 
+- **Interests:** Information Technology, Software Engineering, Digital Solutions, Mechanical Engineering, Robotics
 - **Current Focus:** Deepening my expertise in system design, and scalable application architecture
 
 ---
@@ -17,7 +17,7 @@ Diligent Software Engineer  committed to creating innovative, high-quality solut
 
 - **Languages:** HTML, CSS, JavaScript, Typescript  
 - **Frameworks/Libraries:** React, Tailwind, Framer motion, gsap, Next js, Angular, Node.js, Mongoose,  Express js, Zustand, Wagmi, ethers js, React Native, expo ... 
-- **Other Tools and protocols:** Git, VS Code, Android Studio, Postman, Vercel, Render, GraphQL, REST APIs, WebSockets...
+- **Other Tools and protocols:** Git, VS Code, Android Studio, Xcode, Postman, Vercel, Render, GraphQL, REST APIs, WebSockets...
 
 ---
 
